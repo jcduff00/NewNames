@@ -1,0 +1,32 @@
+[
+  {
+     "name":"Marianne Williamson",
+     "party":"Democratic",
+     "notable_for": "Founder of Project Angel Food",
+     "desc":"a",
+     "images":[
+        "Marianne_Williamson.jpg"
+     ],
+     "campaign_site":"https://marianne2020.com/"
+  },
+  {
+   "name":"Nikki Haley",
+   "party":"Republican",
+   "notable_for": "Governor of South Carolina (2011-2017)",
+   "desc":"a",
+   "images":[
+      "Nikki_Haley.jpg"
+   ],
+   "campaign_site":"https://nikkihaley.com/"
+  },
+  {
+   "name":"Vivek Ramaswamy",
+   "party":"Republican",
+   "notable_for": "Billionaire pharmaceutical mogul",
+   "desc":"a",
+   "images":[
+      "Vivek.jpg"
+   ],
+   "campaign_site":"https://www.vivek2024.com/"
+  }
+]
