@@ -15,6 +15,10 @@ function DeclaredList() {
             name="Nikki Haley"
             party="Republican"
             image="Nikki_Haley.jpg"/>
+        <DeclaredSpace 
+            name="Vivek Ramaswamy"
+            party="Republican"
+            image="Vivek.jpg"/>
       </div>
     )
 }

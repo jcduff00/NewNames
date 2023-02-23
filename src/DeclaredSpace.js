@@ -5,8 +5,8 @@ function DeclaredSpace(props) {
     return (
       <div>
         <img src={`${process.env.PUBLIC_URL}/images/${image}`}    
-          width="500"
-          height="300"
+          width="450"
+          height="250"
           alt="Marianne Williamson"
         />
         <h1>{name}</h1>
