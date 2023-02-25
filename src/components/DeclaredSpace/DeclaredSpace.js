@@ -1,8 +1,7 @@
-import logo from './logo.svg'
 import { Link } from 'react-router-dom'
 
 function DeclaredSpace(props) {
-    const { name, image, party, id } = props
+    const { name, image, id } = props
     return (
       <div>
         <Link to={`/details/${id}`}>

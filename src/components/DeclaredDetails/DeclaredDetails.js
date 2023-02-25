@@ -1,6 +1,6 @@
 import React from 'react'
 import { useParams } from 'react-router'
-import data from './declared_data.json'
+import data from '../../declared_data.json'
 
 function DeclaredDetails(props) {
   const params = useParams()

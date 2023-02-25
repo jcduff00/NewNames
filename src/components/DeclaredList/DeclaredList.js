@@ -1,7 +1,7 @@
 import React from 'react';
 import './DeclaredList.css';
-import DeclaredSpace from './DeclaredSpace'
-import data from './declared_data.json'
+import DeclaredSpace from '../DeclaredSpace/DeclaredSpace'
+import data from '../../declared_data.json'
 
 function DeclaredList() {
 
