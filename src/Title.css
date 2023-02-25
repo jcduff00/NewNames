@@ -1,18 +1,20 @@
-.Title {
-    box-sizing: border-box;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: baseline;
-    padding: 1em;
-    margin-bottom: 2em;
+  .Title a {
+    display: inline-block;
+    padding: 0.5em 1em;
     background-color: rgb(44, 0, 218);
-    color: #fff;
+    color: rgba(255, 255, 255, 0.835);
+    font-weight: bold;
+    text-decoration: none;
   }
 
   .Title-Subtitle {
     margin: 10px;
     padding: 10px;
+  }
+
+  .Title .nav-link-active {
+    color: #fff;
+    border-bottom: 2px solid;
   }
   
   h1 {

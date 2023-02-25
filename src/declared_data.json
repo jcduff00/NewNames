@@ -28,5 +28,15 @@
       "Vivek.jpg"
    ],
    "campaign_site":"https://www.vivek2024.com/"
+  }, 
+  { 
+   "name":"John R. Bolton",
+   "party":"Republican",
+   "notable_for": "National Security Advisor (2018-2021)", 
+   "desc": "a", 
+   "images":[
+
+   ], 
+   "campaign_site":""
   }
 ]

@@ -5,10 +5,10 @@ import data from './declared_data.json'
 
 function DeclaredList() {
 
-    const spaces = data.map((obj) => {
-        const { name, party, images } = obj
+    const spaces = data.map(( { name, party, images }, i) => {
       return (
         <DeclaredSpace
+          id={i}
           key={name}
           name={name}
           party={party}
@@ -21,28 +21,6 @@ function DeclaredList() {
         { spaces }
       </div>
     )
-}
-
-// 
-// function DeclaredList() {
-//     return (
-//       <div className="DeclaredList">
-//         <DeclaredSpace 
-//             name="Marianne Williamson"
-//             party="Democratic"
-//             image="Marianne_Williamson.jpg"
-//             />
-//         <DeclaredSpace 
-//             name="Nikki Haley"
-//             party="Republican"
-//             image="Nikki_Haley.jpg"/>
-//         <DeclaredSpace 
-//             name="Vivek Ramaswamy"
-//             party="Republican"
-//             image="Vivek.jpg"/>
-//       </div>
-//     )
-// }
-  
+} 
 
 export default DeclaredList
