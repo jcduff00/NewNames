@@ -1,16 +1,22 @@
 import { Link } from 'react-router-dom'
+import './DeclaredSpace.css'
 
 function DeclaredSpace(props) {
-    const { name, image, id } = props
+    const { name, image, party, notable_for, id } = props
     return (
-      <div>
-        <Link to={`/details/${id}`}>
+      <div className="DeclaredSpace">
+        <Link 
+          className="DeclaredSpace-title"
+          to={`/details/${id}`}>
             <img src={`${process.env.PUBLIC_URL}images/${image}`} width="450" height="250" alt="Hello" />
         </Link>
         <h1>
         <Link to={`/details/${id}`}>
             {name}
         </Link>
+          <div className="DeclaredSpace-info">
+				    <div >{party}</div>
+			    </div>
         </h1>
       </div>
     )
