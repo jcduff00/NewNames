@@ -6,11 +6,11 @@
   
   .DeclaredSpace-image {
     width: 100%;
-    height: auto;
-    filter: brightness(0.5) sepia(1) hue-rotate(120deg)
+    height: 100%;
+    filter: brightness(1) sepia(1) hue-rotate(120deg)
   }
 
-  .DeclaredSpace .DeclaredSpace-title {
+  .DeclaredSpace .DeclaredSpace-name {
     text-decoration: none;
     color: #000;
   }
@@ -21,21 +21,10 @@
     left: 0;
     top: 0;
     margin: 0;
+    font-size: 30px;
     font-weight: lighter;
     background-color: rgba(255, 255, 255, 0.75);
     padding: 1rem;
     text-align: left;
   }
 
-  .DeclaredSpace .DeclaredSpace-party {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    text-align: right;
-  }
-  
-  .DeclaredSpace .DeclaredSpace-party div {
-    display: inline-block;
-    padding: 0.25em 0.5em;
-    background-color: rgba(255, 255, 255, 0.9);
-  }

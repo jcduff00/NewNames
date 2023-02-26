@@ -35,7 +35,47 @@
    "notable_for": "National Security Advisor (2018-2021)", 
    "desc": "a", 
    "images":[
-
+      "John_Bolton.jpg"
+   ], 
+   "campaign_site":""
+  }, 
+  { 
+   "name":"Steve Laffey", 
+   "party":"Republican", 
+   "notable_for":"Mayor of Cranston, Rhode Island (2003-2007)", 
+   "desc":"a", 
+   "images":[
+      "Steve_Laffey.jpg"
+   ], 
+   "campaign_site":""
+  }, 
+  { 
+   "name":"Jerome Segal", 
+   "party":"Democratic", 
+   "notable_for":"Philosophy author", 
+   "desc":"a", 
+   "images":[
+      "Jerome_Segal.jpg"
+   ], 
+   "campaign_site":""
+  }, 
+  { 
+   "name":"Corey Stapleton", 
+   "party":"Republican", 
+   "notable_for":"Senator from Montana (2001-2009)", 
+   "desc":"a", 
+   "images":[
+      "Corey_Stapleton.jpg"
+   ], 
+   "campaign_site":""
+  }, 
+  { 
+   "name":"Perry Johnson", 
+   "party":"Republican", 
+   "notable_for":"Businessman", 
+   "desc":"a", 
+   "images":[
+      "Perry_Johnson.jpg"
    ], 
    "campaign_site":""
   }
