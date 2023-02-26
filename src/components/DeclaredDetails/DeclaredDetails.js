@@ -6,7 +6,7 @@ import './DeclaredDetails.css'
 function DeclaredDetails(props) {
   const params = useParams()
   const { id } = params
-  const { images, name, party, notable_for, desc } = data[id]
+  const { images, name, party, notable_for, desc, campaign_site } = data[id]
 
   return (
     <div className="DeclaredDetails">
@@ -18,6 +18,7 @@ function DeclaredDetails(props) {
         <p className="DeclaredDetails-party">{ party }</p>
         <p className="DeclaredDetails_notable_for">{ notable_for }</p>
         <p className="DeclaredDetails-desc">{ desc }</p>
+        <p className="DeclaredDetails-desc">{ campaign_site }</p>
       </div>
 
     </div>

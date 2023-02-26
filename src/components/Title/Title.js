@@ -5,7 +5,7 @@ import RandomSpace from '../RandomSpace/RandomSpace'
 
 function Title() {
   return (
-    <div className="Title">
+    <div className="Title a">
     <div>
       <h1>New Names</h1>
 	  <div className="Title-Subtitle">For those of us looking for a fresh face in America's President.</div>

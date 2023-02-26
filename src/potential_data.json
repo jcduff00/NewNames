@@ -1,0 +1,82 @@
+[
+    {
+       "name":"Marianne Williamson",
+       "party":"Democratic",
+       "notable_for": "Founder of Project Angel Food",
+       "desc":"a",
+       "images":[
+          "Marianne_Williamson.jpg"
+       ],
+       "campaign_site":"https://marianne2020.com/"
+    },
+    {
+     "name":"Nikki Haley",
+     "party":"Republican",
+     "notable_for": "Governor of South Carolina (2011-2017)",
+     "desc":"a",
+     "images":[
+        "Nikki_Haley.jpg"
+     ],
+     "campaign_site":"https://nikkihaley.com/"
+    },
+    {
+     "name":"Vivek Ramaswamy",
+     "party":"Republican",
+     "notable_for": "Billionaire pharmaceutical mogul",
+     "desc":"a",
+     "images":[
+        "Vivek.jpg"
+     ],
+     "campaign_site":"https://www.vivek2024.com/"
+    }, 
+    { 
+     "name":"John R. Bolton",
+     "party":"Republican",
+     "notable_for": "National Security Advisor (2018-2021)", 
+     "desc": "a", 
+     "images":[
+        "John_Bolton.jpg"
+     ], 
+     "campaign_site":""
+    }, 
+    { 
+     "name":"Steve Laffey", 
+     "party":"Republican", 
+     "notable_for":"Mayor of Cranston, Rhode Island (2003-2007)", 
+     "desc":"a", 
+     "images":[
+        "Steve_Laffey.jpg"
+     ], 
+     "campaign_site":""
+    }, 
+    { 
+     "name":"Jerome Segal", 
+     "party":"Democratic", 
+     "notable_for":"Philosophy author", 
+     "desc":"a", 
+     "images":[
+        "Jerome_Segal.jpg"
+     ], 
+     "campaign_site":""
+    }, 
+    { 
+     "name":"Corey Stapleton", 
+     "party":"Republican", 
+     "notable_for":"Senator from Montana (2001-2009)", 
+     "desc":"a", 
+     "images":[
+        "Corey_Stapleton.jpg"
+     ], 
+     "campaign_site":""
+    }, 
+    { 
+     "name":"Perry Johnson", 
+     "party":"Republican", 
+     "notable_for":"Businessman", 
+     "desc":"Perry Johnson is an American businessman and politician from Michigan. A member of the Republican Party, Johnson is the author of several books on international quality standards and certification. In 2022, he ran for the Republican nomination for governor of Michigan, but was disqualified from the primary ballot. In 2023, he launched his bid for the 2024 Republican nomination for President of the United States.", 
+     "images":[
+        "Perry_Johnson.jpg"
+     ], 
+     "campaign_site":""
+    }
+  ]
