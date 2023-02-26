@@ -12,7 +12,7 @@ function Title() {
       <div>
       <NavLink 
 	      className={({ isActive }) => isActive ? "nav-link-active" : "nav-link" }
-	      to="/">List</NavLink>
+	      to="/">Declared</NavLink>
       <NavLink 
 	      className={({ isActive }) => isActive ? "nav-link-active" : "nav-link" }
 	      to="/about">About</NavLink>
