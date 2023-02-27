@@ -1,0 +1,29 @@
+.PotentialSpace {
+    position: relative;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .PotentialSpace-image {
+    width: 100%;
+    height: 100%;
+    filter: brightness(1) sepia(1) hue-rotate(120deg)
+  }
+
+  .PotentialSpace .PotentialSpace-name {
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .PotentialSpace h1 {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin: 0;
+    font-size: 30px;
+    font-weight: lighter;
+    background-color: rgba(255, 255, 255, 0.75);
+    padding: 1rem;
+    text-align: left;
+  }

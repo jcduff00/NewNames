@@ -5,7 +5,7 @@
      "notable_for": "Founder of Project Angel Food",
      "desc":"a",
      "images":[
-        "Marianne_Williamson.jpg"
+        "MWilliamson.gif"
      ],
      "campaign_site":"https://marianne2020.com/"
   },
@@ -15,7 +15,7 @@
    "notable_for": "Governor of South Carolina (2011-2017)",
    "desc":"a",
    "images":[
-      "Nikki_Haley.jpg"
+      "Haley.gif"
    ],
    "campaign_site":"https://nikkihaley.com/"
   },
@@ -25,7 +25,7 @@
    "notable_for": "Billionaire pharmaceutical mogul",
    "desc":"a",
    "images":[
-      "Vivek.jpg"
+      "Vivek1.gif"
    ],
    "campaign_site":"https://www.vivek2024.com/"
   }, 
@@ -35,17 +35,17 @@
    "notable_for": "National Security Advisor (2018-2021)", 
    "desc": "a", 
    "images":[
-      "John_Bolton.jpg"
+      "Bolton.gif"
    ], 
    "campaign_site":""
   }, 
   { 
-   "name":"Steve Laffey", 
+   "name":"Bill Weld", 
    "party":"Republican", 
-   "notable_for":"Mayor of Cranston, Rhode Island (2003-2007)", 
+   "notable_for":"Governor of Massachusetts (", 
    "desc":"a", 
    "images":[
-      "Steve_Laffey.jpg"
+      "Weld.gif"
    ], 
    "campaign_site":""
   }, 

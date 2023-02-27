@@ -1,11 +1,11 @@
-  .Title a {
-    display: inline-block;
-    padding: 0.5em 1em;
-    background-color: rgb(44, 0, 218);
-    color: rgba(255, 255, 255, 0.835);
-    font-weight: bold;
-    text-decoration: none;
-  }
+.Title a {
+  display: inline-block;
+  padding: 0.5em 1em;
+  background-color: rgb(44, 0, 218);
+  color: rgba(255, 255, 255, 0.835);
+  font-weight: bold;
+  text-decoration: none;
+}
 
   .Title-Subtitle {
     margin: 10px;

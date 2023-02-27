@@ -1,82 +1,142 @@
 [
     {
-       "name":"Marianne Williamson",
+       "name":"Pete Buttigieg",
        "party":"Democratic",
-       "notable_for": "Founder of Project Angel Food",
+       "notable_for": "Secretary of Transportation (2021-Pres.)",
        "desc":"a",
        "images":[
-          "Marianne_Williamson.jpg"
+          "Buttigieg.gif"
        ],
-       "campaign_site":"https://marianne2020.com/"
+       "campaign_site":""
     },
     {
-     "name":"Nikki Haley",
+     "name":"Liz Cheney",
      "party":"Republican",
-     "notable_for": "Governor of South Carolina (2011-2017)",
+     "notable_for": "Representative from Wyoming (2017-2023)",
      "desc":"a",
      "images":[
-        "Nikki_Haley.jpg"
+        "Cheney.gif"
      ],
-     "campaign_site":"https://nikkihaley.com/"
+     "campaign_site":""
     },
     {
-     "name":"Vivek Ramaswamy",
-     "party":"Republican",
-     "notable_for": "Billionaire pharmaceutical mogul",
+     "name":"Roy Cooper",
+     "party":"Democratic",
+     "notable_for": "Governor of North Carolina (2017-Pres.)",
      "desc":"a",
      "images":[
-        "Vivek.jpg"
+        "Cooper.gif"
      ],
-     "campaign_site":"https://www.vivek2024.com/"
+     "campaign_site":""
     }, 
     { 
-     "name":"John R. Bolton",
+     "name":"Ron DeSantis",
      "party":"Republican",
-     "notable_for": "National Security Advisor (2018-2021)", 
+     "notable_for": "Governor of Florida (2019-Pres.)", 
      "desc": "a", 
      "images":[
-        "John_Bolton.jpg"
+        "DeSantis.gif"
      ], 
      "campaign_site":""
     }, 
     { 
-     "name":"Steve Laffey", 
-     "party":"Republican", 
-     "notable_for":"Mayor of Cranston, Rhode Island (2003-2007)", 
-     "desc":"a", 
-     "images":[
-        "Steve_Laffey.jpg"
-     ], 
-     "campaign_site":""
-    }, 
-    { 
-     "name":"Jerome Segal", 
+     "name":"Kamala Harris", 
      "party":"Democratic", 
-     "notable_for":"Philosophy author", 
+     "notable_for":"Vice President (2021-Pres.)", 
      "desc":"a", 
      "images":[
-        "Jerome_Segal.jpg"
+        "Harris.gif"
      ], 
      "campaign_site":""
     }, 
     { 
-     "name":"Corey Stapleton", 
+     "name":"Larry Hogan", 
      "party":"Republican", 
-     "notable_for":"Senator from Montana (2001-2009)", 
+     "notable_for":"Governor of Maryland (2015-2023)", 
      "desc":"a", 
      "images":[
-        "Corey_Stapleton.jpg"
+        "Hogan.gif"
      ], 
      "campaign_site":""
     }, 
     { 
-     "name":"Perry Johnson", 
+     "name":"Kristi Noem", 
      "party":"Republican", 
-     "notable_for":"Businessman", 
+     "notable_for":"Governor of South Dakota (2019-Pres.)", 
+     "desc":"a", 
+     "images":[
+        "Noem.gif"
+     ], 
+     "campaign_site":""
+    }, 
+    { 
+     "name":"A. Ocasio-Cortez", 
+     "party":"Democratic", 
+     "notable_for":"Representative from New York (2019-Pres.)", 
      "desc":"Perry Johnson is an American businessman and politician from Michigan. A member of the Republican Party, Johnson is the author of several books on international quality standards and certification. In 2022, he ran for the Republican nomination for governor of Michigan, but was disqualified from the primary ballot. In 2023, he launched his bid for the 2024 Republican nomination for President of the United States.", 
      "images":[
-        "Perry_Johnson.jpg"
+        "AOC.gif"
      ], 
      "campaign_site":""
-    }
+    }, 
+    { 
+      "name":"Mike Pence", 
+      "party":"Republican", 
+      "notable_for":"Vice President (2017-2021)", 
+      "desc":"Perry Johnson is an American businessman and politician from Michigan. A member of the Republican Party, Johnson is the author of several books on international quality standards and certification. In 2022, he ran for the Republican nomination for governor of Michigan, but was disqualified from the primary ballot. In 2023, he launched his bid for the 2024 Republican nomination for President of the United States.", 
+      "images":[
+         "Pence.gif"
+      ], 
+      "campaign_site":""
+     }, 
+     { 
+      "name":"Mike Pompeo", 
+      "party":"Republican", 
+      "notable_for":"Secretary of State (2018-2021)", 
+      "desc":"Perry Johnson is an American businessman and politician from Michigan. A member of the Republican Party, Johnson is the author of several books on international quality standards and certification. In 2022, he ran for the Republican nomination for governor of Michigan, but was disqualified from the primary ballot. In 2023, he launched his bid for the 2024 Republican nomination for President of the United States.", 
+      "images":[
+         "Pompeo.gif"
+      ], 
+      "campaign_site":""
+     }, 
+     { 
+      "name":"Tim Scott", 
+      "party":"Republican", 
+      "notable_for":"Senator from South Carolina (2013-Pres.)", 
+      "desc":"Tim Scott is an American businessman and politician serving as the junior United States senator from South Carolina since 2013. A member of the Republican Party, Scott was appointed to the U.S. Senate by Governor Nikki Haley in 2013. He retained his seat after winning a special election in 2014, and was elected to full terms in 2016 and 2022.", 
+      "images":[
+         "Scott.gif"
+      ], 
+      "campaign_site":""
+     }, 
+     { 
+      "name":"Chris Sununu", 
+      "party":"Republican", 
+      "notable_for":"Governor of New Hampshire (2017-Pres.)", 
+      "desc":"Tim Scott is an American businessman and politician serving as the junior United States senator from South Carolina since 2013. A member of the Republican Party, Scott was appointed to the U.S. Senate by Governor Nikki Haley in 2013. He retained his seat after winning a special election in 2014, and was elected to full terms in 2016 and 2022.", 
+      "images":[
+         "Sununu.gif"
+      ], 
+      "campaign_site":""
+     }, 
+     { 
+      "name":"Nina Turner", 
+      "party":"Democratic", 
+      "notable_for":"Senator from Ohio (2008-2014)", 
+      "desc":"Nina Turner is a progressive political activist from the state of Ohio. Originally elected to the Ohio Senate in 2008, Turner retained the position for two terms. She was a vocal supporter of Bernie Sanders in 2016 and 2020 and has proposed challenging Joe Biden for the party's nomination in 2024.", 
+      "images":[
+         "Turner.gif"
+      ], 
+      "campaign_site":""
+     }, 
+     { 
+      "name":"Raphael Warnock", 
+      "party":"Democratic", 
+      "notable_for":"Senator from Georgia (2021-Pres.)", 
+      "desc":"", 
+      "images":[
+         "Warnock.gif"
+      ], 
+      "campaign_site":""
+     }
   ]
