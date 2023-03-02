@@ -9,17 +9,17 @@ function DeclaredList() {
       const inName = obj.name.toLowerCase().includes(query.toLowerCase())
       const inParty = obj.party.toLowerCase().includes(query.toLowerCase())
       return inName || inParty
-    }).map(( obj) => {
-      const { id, name, images } = obj;
-      return (
-        <DeclaredSpace
-          id={id}
-          key={`${name}-${id}`}
-          name={name}
-          image={images[0]}
-        />
-      )
-    })
+        }).map(( obj) => {
+          const { id, name, images } = obj;
+          return (
+            <DeclaredSpace
+              id={id}
+              key={`${name}-${id}`}
+              name={name}
+              image={images[0]}
+            />
+          )
+        })
     return (
       <div className="DeclaredList">
         <form>
