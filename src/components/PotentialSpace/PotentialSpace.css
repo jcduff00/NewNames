@@ -18,6 +18,11 @@
     text-decoration: none;
     color: #000;
   }
+
+  .PotentialSpace > h1 > a { 
+    color: black;
+    text-decoration: none;
+  }
   
   .PotentialSpace h1 {
     display: block;
