@@ -3,6 +3,7 @@
 	flex-direction: row-reverse;
 	width: 960px;
 	margin: auto;
+	font-family: Helvetica;
 }
 
 .PotentialDetails-info {

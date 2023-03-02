@@ -1,4 +1,3 @@
-import logo from '../logo.svg';
 import './App.css';
 import Title from './Title/Title'
 import Footer from './Footer/Footer'

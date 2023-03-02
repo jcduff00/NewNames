@@ -3,6 +3,8 @@
 	flex-direction: row-reverse;
 	width: 960px;
 	margin: auto;
+	font-family: "Rockwell";
+	background-color: rgb(rgb(9, 4, 4))
 }
 
 .DeclaredDetails-info {

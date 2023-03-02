@@ -11,7 +11,7 @@ function PotentialDetails(props) {
   return (
     <div className="PotentialDetails">
       <div className="PotentialDetails-image">
-        <img src={`${process.env.PUBLIC_URL}images/${images[0]}`} alt={name} />
+        <img src={`${process.env.PUBLIC_URL}/images/${images[0]}`} alt={name} />
       </div>
       <div className="PotentialDetails-info">
         <h1 className="PotentialDetails-name">{ name }</h1>

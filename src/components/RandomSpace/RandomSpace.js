@@ -1,5 +1,6 @@
 import { useNavigate } from 'react-router-dom'
 import './RandomSpace.css';
+import '../Title/Title.css';
 import data from '../../declared_data.json'
 
 function RandomSpace() {

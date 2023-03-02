@@ -11,7 +11,7 @@ function DeclaredDetails(props) {
   return (
     <div className="DeclaredDetails">
       <div className="DeclaredDetails-image">
-        <img src={`${process.env.PUBLIC_URL}images/${images[0]}`} alt={name} />
+        <img src={`${process.env.PUBLIC_URL}/images/${images[0]}`} alt={name} />
       </div>
       <div className="DeclaredDetails-info">
         <h1 className="DeclaredDetails-name">{ name }</h1>

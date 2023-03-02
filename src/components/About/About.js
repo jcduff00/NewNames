@@ -3,7 +3,7 @@ import './About.css'
 
 function About() {
   return (
-    <div classname="about">
+    <div className="about">
       <h1>About New Names</h1>
       <p>New Names is a service in its infancy. This website is dedicated to 
         providing an in-depth look at presidential candidates other than Donald Trump or Joe Biden.

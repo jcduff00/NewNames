@@ -8,11 +8,11 @@ function DeclaredSpace(props) {
         <Link 
           className="DeclaredSpace-title"
           to={`/details/${id}`}>
-            <img src={`${process.env.PUBLIC_URL}images/${image}`} className="DeclaredSpace-image" width="450" height="250" alt="Hello" />
+            <img src={`${process.env.PUBLIC_URL}/images/${image}`} className="DeclaredSpace-image" width="450" height="250" alt="Hello" />
         </Link>
         <h1>
         <Link to={`/details/${id}`}>
-            {name}
+            <div className="DeclaredSpace-text">{name}</div>
         </Link>
           <div className="DeclaredSpace-party">
 				    <div >{party}</div>
