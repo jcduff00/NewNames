@@ -42,9 +42,10 @@
 
   button {
     padding: 5px 10px;
-    background-color: rgb(44, 0, 218);
+    background-color: rgb(0, 36, 58);
     color: white;
     border: none;
+    font-family: "Rockwell";
     font-weight: bold;
   }
 
