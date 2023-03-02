@@ -13,7 +13,7 @@
      "name":"Liz Cheney",
      "party":"Republican",
      "notable_for": "Representative from Wyoming (2017-2023)",
-     "desc":"a",
+     "desc":"Liz Cheney is a conservative lobbyist from the state of Wyoming. Daughter of the former Vice President Dick Cheney, Liz was elected to the Congress in her own right in 2016. She served three terms before going down to defeat due to her refusal to accept President Trump's claims of election fraud. She has made herself into a defiant figure, representing the old Republican guard.",
      "images":[
         "Cheney.gif"
      ],
@@ -23,7 +23,7 @@
      "name":"Roy Cooper",
      "party":"Democratic",
      "notable_for": "Governor of North Carolina (2017-Pres.)",
-     "desc":"a",
+     "desc":"Roy Cooper is the incumbent Governor of North Carolina, most recently elected to a second term in 2020. An old-world Blue Dog Democrat, Cooper has made bipartisanship his calling card. He achieved national notoriety in 2022 for his veto of a restrictionist abortion bill following the overturn of Roe v. Wade. Notably, he has been critical of President Biden's spending increases.",
      "images":[
         "Cooper.gif"
      ],
@@ -33,7 +33,7 @@
      "name":"Ron DeSantis",
      "party":"Republican",
      "notable_for": "Governor of Florida (2019-Pres.)", 
-     "desc": "a", 
+     "desc": "Ron DeSantis is the incumbent Governor of Florida, most recently elected to a second term in 2022. DeSantis has styled himself as a rightwing populist in the vein of President Trump, and has garnered attention and sparked controversy for his passage of several 'anti-woke' pieces of legislation. He is credited with shifting Florida's politics to the right, and could seek out Trump's populist base should he run.", 
      "images":[
         "DeSantis.gif"
      ], 
@@ -43,7 +43,7 @@
      "name":"Kamala Harris", 
      "party":"Democratic", 
      "notable_for":"Vice President (2021-Pres.)", 
-     "desc":"a", 
+     "desc":"Kamala Harris is the incumbent Vice President of the United States, becoming the first woman elected to the role in 2020. Harris previously served as Attorney General of California as well as Senator from the same state. She was notably critical of President Biden in her own presidential campaign, and would be the likely frontrunner should Biden choose not to seek a second term.", 
      "images":[
         "Harris.gif"
      ], 
@@ -53,7 +53,7 @@
      "name":"Larry Hogan", 
      "party":"Republican", 
      "notable_for":"Governor of Maryland (2015-2023)", 
-     "desc":"a", 
+     "desc":"Larry Hogan is the former Governor of Maryland. Elected as a Republican in a predominantly blue state, Hogan is notable for his marked bipartisanship and effectiveness in government. A liberal Republican, Hogan has been an outspoken critic of President Trump, and has hinted at launching a presidential bid in an effort to stop Trump from gaining the Republican nomination a third time.", 
      "images":[
         "Hogan.gif"
      ], 
@@ -63,7 +63,7 @@
      "name":"Kristi Noem", 
      "party":"Republican", 
      "notable_for":"Governor of South Dakota (2019-Pres.)", 
-     "desc":"a", 
+     "desc":"Kristi Noem is the incumbent Governor of South Dakota, most recently elected to a second term in 2022. Noem gained adoration in Republican circles for her refusal to implement restrictions on public life during the COVID-19 pandemic. She has sought to position herself as a figure of generational change, and could well be the next iteration of Trump-style politics should she seek the presidency.", 
      "images":[
         "Noem.gif"
      ], 
@@ -73,7 +73,7 @@
      "name":"A. Ocasio-Cortez", 
      "party":"Democratic", 
      "notable_for":"Representative from New York (2019-Pres.)", 
-     "desc":"Perry Johnson is an American businessman and politician from Michigan. A member of the Republican Party, Johnson is the author of several books on international quality standards and certification. In 2022, he ran for the Republican nomination for governor of Michigan, but was disqualified from the primary ballot. In 2023, he launched his bid for the 2024 Republican nomination for President of the United States.", 
+      "desc":"Alexandria Ocasio-Cortez is a Congresswoman from New York, elected to a third term in 2022. Ocasio-Cortez rose to prominence after winning the Democratic nomination for her seat, in a stunning upset to the then-incumbent Congressman. She has positioned herself as the new face of progressive politics, endorsing Bernie Sanders in 2020. She has avidly criticized President Biden's legislative agenda numerous times.",
      "images":[
         "AOC.gif"
      ], 
@@ -83,7 +83,7 @@
       "name":"Mike Pence", 
       "party":"Republican", 
       "notable_for":"Vice President (2017-2021)", 
-      "desc":"Perry Johnson is an American businessman and politician from Michigan. A member of the Republican Party, Johnson is the author of several books on international quality standards and certification. In 2022, he ran for the Republican nomination for governor of Michigan, but was disqualified from the primary ballot. In 2023, he launched his bid for the 2024 Republican nomination for President of the United States.", 
+      "desc":"Mike Pence is the former Vice President of the United States, elected to a single term in 2016 along with former President Trump. A figure of the religious right, Pence previously served as the Governor of Indiana, and sparked controversy for his passage of religious liberty laws. Pence has signaled his intention to run against his former boss in 2024 in order to represent what he refers to as the Moral Majority.",
       "images":[
          "Pence.gif"
       ], 
@@ -93,7 +93,7 @@
       "name":"Mike Pompeo", 
       "party":"Republican", 
       "notable_for":"Secretary of State (2018-2021)", 
-      "desc":"Perry Johnson is an American businessman and politician from Michigan. A member of the Republican Party, Johnson is the author of several books on international quality standards and certification. In 2022, he ran for the Republican nomination for governor of Michigan, but was disqualified from the primary ballot. In 2023, he launched his bid for the 2024 Republican nomination for President of the United States.", 
+      "desc":"Mike Pompeo is the former Secretary of State of the United States. Serving under President Trump, Pompeo has become known for his criticism of the People's Republic of China. He has made trade and defense policy the signature issues of his national profile, and has publicly indicated that he is soon to announce his intention to seek the presidency in order to elevate these policy goals.",
       "images":[
          "Pompeo.gif"
       ], 
@@ -113,7 +113,7 @@
       "name":"Chris Sununu", 
       "party":"Republican", 
       "notable_for":"Governor of New Hampshire (2017-Pres.)", 
-      "desc":"Tim Scott is an American businessman and politician serving as the junior United States senator from South Carolina since 2013. A member of the Republican Party, Scott was appointed to the U.S. Senate by Governor Nikki Haley in 2013. He retained his seat after winning a special election in 2014, and was elected to full terms in 2016 and 2022.", 
+      "desc":"Chris Sununu is the Governor of New Hampshire, most recently elected to a third term in 2022. He is the grandson of the powerful Sununu political dynasty, and has positioned himself as a figure of the libertarian right within the Republican Party. A consistent critic of President Trump, Sununu has sought to position himself as a fusion candidate should he run for President in 2024.", 
       "images":[
          "Sununu.gif"
       ], 
@@ -133,7 +133,7 @@
       "name":"Raphael Warnock", 
       "party":"Democratic", 
       "notable_for":"Senator from Georgia (2021-Pres.)", 
-      "desc":"", 
+      "desc":"Raphael Warnock is an incumbent Senator from the state of Georgia, originally elected in 2020 in a special election. He was elected to a full term in 2022, becoming the first black Senator to be popularly elected by the state. A former pastor, Warnock has garnered attention for his ability to connect with his constituents in an ever-polarized national environment.", 
       "images":[
          "Warnock.gif"
       ], 

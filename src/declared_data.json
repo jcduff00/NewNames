@@ -22,8 +22,8 @@
   {
    "name":"Vivek Ramaswamy",
    "party":"Republican",
-   "notable_for": "Billionaire pharmaceutical mogul",
-   "desc":"a",
+   "notable_for": "Billionaire pharmaceutics mogul",
+   "desc":"Vivek Ramaswamy is an American entrepreneur, author, and conservative political activist. As the author of multiple political commentary novels, he has been called one of the intellectual godfathers of the 'anti-woke' movement. Founder of Roivant Sciences, Ramaswamy is seeking to reiterate the Trump era of American politics.",
    "images":[
       "Vivek1.gif"
    ],
@@ -33,50 +33,50 @@
    "name":"John R. Bolton",
    "party":"Republican",
    "notable_for": "National Security Advisor (2018-2021)", 
-   "desc": "a", 
+   "desc": "John R. Bolton is the former National Security Advisor to President Trump, having previously served as United Nations Ambassador under President George W. Bush (2005-2007). As a prominent foreign policy scholar, Bolton has become known for his criticism of President Trump, particularly of his isolationist foreign policy positions.", 
    "images":[
       "Bolton.gif"
    ], 
-   "campaign_site":""
+   "campaign_site":"https://www.boltonpac.com/"
   }, 
   { 
    "name":"Bill Weld", 
    "party":"Republican", 
-   "notable_for":"Governor of Massachusetts (", 
-   "desc":"a", 
+   "notable_for":"Governor of Massachusetts (1991-1997)", 
+   "desc":"Bill Weld is the former two-term Governor of Massachusetts. Originally elected in 1990, Weld became a staple of the centrist, New England brand of Republican politics, lowering taxes while upholding liberal social policy. Weld previously sought the presidency in 2020, becoming a stiff challenger to President Trump for the Republican nomination.", 
    "images":[
       "Weld.gif"
    ], 
-   "campaign_site":""
+   "campaign_site":"https://www.mintz.com/our-people/william-f-weld"
   }, 
   { 
    "name":"Jerome Segal", 
    "party":"Democratic", 
    "notable_for":"Philosophy author", 
-   "desc":"a", 
+   "desc":"Jerome Segal is a socialist political activist from the state of Maryland. A perennial candidate for several state offices, Segal originally left the party in 2020 to found the leftwing Bread and Roses Party, before switching back to the Democratic Party within a year. Segal is seeking the presidency largely as a protest candidate in order to elevate his economic ideals.", 
    "images":[
       "Jerome_Segal.jpg"
    ], 
-   "campaign_site":""
+   "campaign_site":"https://www.segalforpresident.org/"
   }, 
   { 
    "name":"Corey Stapleton", 
    "party":"Republican", 
    "notable_for":"Senator from Montana (2001-2009)", 
-   "desc":"a", 
+   "desc":"Corey Stapleton is the former Secretary of State of Montana, originally elected to the position in 2016 and serving a single term. Previously a State Senator, Stapleton has attempted to brand himself as the rightwing version of former presidential candidate Andrew Yang. he has launched a single-issue campaign that is meant to garner attention from younger voters.", 
    "images":[
       "Corey_Stapleton.jpg"
    ], 
-   "campaign_site":""
+   "campaign_site":"https://coreystapleton.com/"
   }, 
   { 
    "name":"Perry Johnson", 
    "party":"Republican", 
    "notable_for":"Businessman", 
-   "desc":"Perry Johnson is an American businessman and politician from Michigan. A member of the Republican Party, Johnson is the author of several books on international quality standards and certification. In 2022, he ran for the Republican nomination for governor of Michigan, but was disqualified from the primary ballot. In 2023, he launched his bid for the 2024 Republican nomination for President of the United States.", 
+   "desc":"Perry Johnson is an American businessman and politician from Michigan. A member of the Republican Party, Johnson is the author of several books on international quality standards and certification. In 2022, he ran for the Republican nomination for governor of Michigan, but was disqualified from the primary ballot. He is a socially conservative, business Republican.", 
    "images":[
       "Perry_Johnson.jpg"
    ], 
-   "campaign_site":""
+   "campaign_site":"https://www.fec.gov/data/committee/C00833160/?cycle=2024"
   }
 ]
