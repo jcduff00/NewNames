@@ -4,7 +4,7 @@ import './Footer.css';
 function Footer() {
   return (
     <footer className="footer">
-      <p>© J. Duff Creations</p>
+      <p>© J. Duff 2023</p>
     </footer>
   );
 }
